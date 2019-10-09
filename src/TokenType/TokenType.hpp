@@ -1,0 +1,1 @@
+enum TokenType { Punctuation, Numbrt, String, Keyword, Variable, Operator };
